@@ -25,7 +25,7 @@ Orchestrator (you + Claude Code)
 
 ```bash
 # Clone the plugin
-git clone https://github.com/ankitgovil/agent-team.git
+git clone https://github.com/maverick0magic/agent-team.git
 
 # Use it in any project
 cd your-project
