@@ -1,6 +1,6 @@
 # Agent Team
 
-A Claude Code plugin that gives you a 7-agent team for building software products. Battle-tested across multiple production projects.
+A Claude Code plugin that gives you a team of specialized agents for building software products. Battle-tested across multiple production projects.
 
 ## What It Does
 
@@ -16,7 +16,8 @@ Orchestrator (you + Claude Code)
   ├── Deploy Agent ────────── CI/CD, infra, releases
   ├── Content Agent ───────── copy, content files, data
   ├── Growth Agent ────────── strategy, ASO, launch
-  └── QA Agent ────────────── test plans, testing, a11y
+  ├── QA Agent ────────────── test plans, testing, a11y
+  └── Hedge Fund Manager ──── investment theses, sizing, risk, reporting
 ```
 
 ## Quick Start
@@ -71,7 +72,7 @@ This will:
 | `/agent-team:review` | Trigger Codex code review on files or changes. |
 | `/agent-team:status` | Read-only team dashboard with agent statuses and task counts. |
 
-## The 7 Agents
+## The Agents
 
 | Agent | Specialty | When to Hire | Model |
 |-------|-----------|-------------|-------|
@@ -82,6 +83,7 @@ This will:
 | **Content** | App copy, content files, marketing content | Content-heavy projects | sonnet |
 | **Growth** | Acquisition, ASO, monetization, launch strategy | Products with users | sonnet |
 | **QA** | Test plans, testing, accessibility, performance | Work projects; recommended for personal | sonnet |
+| **Hedge Fund Manager** | Investment theses, position sizing, risk management, portfolio & performance reporting (educational, not financial advice) | Investing/finance projects | inherit |
 
 ### Personal vs Work
 
@@ -166,6 +168,9 @@ After kickoff, your project gets an `.agents/` directory:
 │   ├── status.md
 │   └── tasks.md
 ├── qa/                     # Test plans, bug reports
+│   ├── status.md
+│   └── tasks.md
+├── hedge-fund/             # Mandate, theses, portfolio, risk & performance reports
 │   ├── status.md
 │   └── tasks.md
 └── shared/

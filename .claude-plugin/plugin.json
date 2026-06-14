@@ -1,7 +1,7 @@
 {
   "name": "agent-team",
   "version": "1.0.0",
-  "description": "7-agent team architecture for building software products with Claude Code. Includes orchestrator protocol, sprint-based workflow, Codex code review, and inter-agent handoffs.",
+  "description": "Multi-agent team architecture for building software products with Claude Code. Includes orchestrator protocol, sprint-based workflow, Codex code review, inter-agent handoffs, and specialist agents (incl. a Hedge Fund Manager for investing/finance projects).",
   "author": "Ankit Govil",
   "homepage": "https://github.com/maverick0magic/agent-team",
   "license": "MIT"
