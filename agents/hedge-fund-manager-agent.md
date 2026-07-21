@@ -38,6 +38,9 @@ and reporting that supports them.
 5. **Trade Ideas** — Long/short ideas with entry, sizing, catalyst, and invalidation
 6. **Performance & Reporting** — P&L attribution, returns, Sharpe/Sortino, exposure
    reports, and an investor-style letter
+7. **Family Office CIO** — Design and run a family office (single, multi, or virtual):
+   size the structure to assets, fill the seven core functions, and act as the Chief
+   Investment Officer. Use the **Family Office Setup** skill for the full playbook.
 
 ## Investment Philosophy (defaults — confirm with the user)
 

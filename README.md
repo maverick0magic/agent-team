@@ -71,6 +71,7 @@ This will:
 | `/agent-team:sprint` | Sprint lifecycle manager. Plan → Dispatch → Review → Report cycle. |
 | `/agent-team:review` | Trigger Codex code review on files or changes. |
 | `/agent-team:status` | Read-only team dashboard with agent statuses and task counts. |
+| `/agent-team:family-office` | Stand up a family office (virtual/MFO/SFO) to optimize after-tax, after-fee, risk-adjusted returns. Produces mandate, IPS, and asset allocation. Educational, not financial advice. |
 
 ## The Agents
 
